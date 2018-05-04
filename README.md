@@ -21,10 +21,8 @@ npm run dev
 2. 编译、上传
     ``` bash
     npm run build
-    git init
     git add 
     git commit -m "update"
-    git remote add origin git@github.com:jirengu-inc/animating-resume.git
     git push
     ```
 
