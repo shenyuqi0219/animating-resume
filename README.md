@@ -21,9 +21,11 @@ npm run dev
 2. 编译、上传
     ``` bash
     npm run build
-    git add .
+    git init
+    git add .
     git commit -m "update"
-    git push
+    git remote add origin git@github.com:jirengu-inc/animating-resume.git
+    git push
     ```
 
 3. 开启 GitHub Pages 功能
