@@ -22,7 +22,6 @@ npm run dev
     ``` bash
     npm run build 
     git commit -m "update"
-    git push
     ```
 
 3. 开启 GitHub Pages 功能
