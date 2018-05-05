@@ -23,7 +23,7 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/  which is shared by my besty
+* Inspired by http://strml.net/  which is shared by my besty PQY
 * 大家好，我是黄艺璇
 * 昨天我的闺蜜小潘同学给我分享了一个动态简历
 * 当时觉得炒鸡炫酷 想学！
