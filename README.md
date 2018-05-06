@@ -1,6 +1,6 @@
 # 一个会动的简历模板
 
-> This is shenyuqi'S animating resume
+> This is SHENYUQI'S animating resume
 
 [预览](https://shenyuqi0219.github.io/animating-resume/public/)
 
@@ -25,4 +25,5 @@ npm run dev
     ```
 
 3. 开启 GitHub Pages 功能
+
 
