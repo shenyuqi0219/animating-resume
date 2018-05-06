@@ -2,7 +2,7 @@
 
 > This is SHENYUQI'S animating resume
 
-[预览](https://shenyuqi0219.github.io/animating-resume/public/)
+[预览](https://github.com/shenyuqi0219/animating-resume1.git)
 
 ## 使用方法
 
